@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: rgb(246, 251, 251);
+}
+
+ul,ol{
+    border: 2px solid ;
+    width:160px;
+    height: 190px;
+    margin:140px;
+    float: left;
+    font-size: large;
+}
+body{
+    background-color: rgb(7, 83, 83);
+}
+
+.Fruits{
+    background-color: rgb(157, 235, 164);
+}
+
+.Vegetables{
+    background-color: rgb(205, 175, 231);
+}
+
+.Groceries{
+    background-color: rgb(230, 151, 151);
+}
+
+h3{
+    color: rgb(245, 245, 240);
+}
